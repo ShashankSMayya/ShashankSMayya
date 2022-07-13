@@ -1,6 +1,6 @@
 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/ShashankSMayya/ShashankSMayya/master/dash_banner.png" width = 1280px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://github.com/ShashankSMayya/ShashankSMayya/blob/main/dash_banner.png" width = 1280px> </h1>
 <p align='center'>
 </p>
 
