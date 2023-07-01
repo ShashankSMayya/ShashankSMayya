@@ -15,7 +15,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on building Fintech applications using Flutter
+- 🔭 I’m currently working on helping my clients solve their problems using Flutter and help them build robust solution.
 
 - 🌱 I’m currently learning Firebase with Flutter
 
